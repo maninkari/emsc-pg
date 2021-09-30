@@ -9,6 +9,7 @@
     "start": "webpack serve --hot"
   },
   "dependencies": {
+    "node-fetch": "^3.0.0",
     "webpack": "^5.52.0",
     "webpack-cli": "^4.8.0"
   },
